@@ -80,7 +80,7 @@ Shared entadmin professor student
 Write the command that you used below:
 ----------
 
-clear
+clear 
 
 ==========
 We're going to practice downloading files from a web site.  We'll use this practice to download more lab materials!
